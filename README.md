@@ -27,14 +27,19 @@
 
 ## Conclusions
 -In fall there seems to be highest demand of bikes, followed by Summer and Winter,Spring seems to be the least season where demand is less
+
 -average rented bikes has increased in 2019 almost double of 2018
+
 -More and almost similar average count of rented bikes in August, June, September, July followed by May, October.
 	December, January, February have the least demand
 -looks like all days have similar demands, but still Sunday, Monday, Saturday, Friday has high demands than other days
 	People less prefer rented bike on Thrusday, Wednesday,Tuesday
+	
 -There are similar demands whether it's a working day or not.
+
 -It clearly shows that if the weather is clear, the demand is more
 	If the weather is bad, demand decreases drastically
+	
 -As per my final Model, the below predictor variables influences bike booking :
 	Temperature (temp)
 	September Month
